@@ -1,0 +1,7 @@
+data/*.csv
+!data/README.md
+__pycache__/
+*.pyc
+.streamlit/
+audit_sample.csv
+.DS_Store
